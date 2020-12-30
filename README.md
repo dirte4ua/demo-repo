@@ -2,5 +2,8 @@
 
 
 
+Some Description
+## Local Development
 
-Demo description!
+
+Open index.html in your browser
